@@ -1,0 +1,1 @@
+Assignment on retreiving data from API using promise
